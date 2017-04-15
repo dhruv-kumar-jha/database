@@ -1,0 +1,27 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "A simple module that allows us to store and access the data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruv-kumar-jha/database.git"
+  },
+  "keywords": [
+    "Database",
+    "Storage"
+  ],
+  "author": "Dhruv Kumar Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruv-kumar-jha/database/issues"
+  },
+  "homepage": "https://github.com/dhruv-kumar-jha/database#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
