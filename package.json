@@ -1,5 +1,5 @@
 {
-  "name": "database",
+  "name": "databasex",
   "version": "1.0.0",
   "description": "A simple module that allows us to store and access the data.",
   "main": "index.js",
